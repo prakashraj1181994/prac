@@ -5,5 +5,5 @@ int main()
 	int b=10;
 	printf("hello World..!\n");
 printf("prakash raj...!\n");
-return 0;
+	return 0;
 }
