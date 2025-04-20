@@ -8,5 +8,6 @@ int main()
 	printf("obito..!\n");
 	printf("Rin..!\n");
 	printf("naruto..!\n");
+	printf("hello..!\n");
 	return 0;
 }
